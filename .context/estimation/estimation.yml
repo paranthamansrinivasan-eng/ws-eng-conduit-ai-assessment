@@ -1,0 +1,22 @@
+author: paranthaman.srinivasan@trilogy.com
+key: educrm-tracker/26
+
+questions:
+  What requirements or edge-cases could we drop to make the solution significantly simpler?: ""
+  What third-party tools, libraries, assets could we use to reduce the amount of custom code? What impediments are there for using them? Can we change any requirements to get past them?: ""
+
+decisions: |
+
+plan: |
+
+areas:
+  - name: Preparation
+    breakdown:
+      - step: Clarify the requirements
+        type: Shared | Clarifying Requirements | Easy
+      - step: Plan the work
+        type: Shared | Plan and Design | Easy
+      - step: Incremental AI improvements
+        type: Shared | Improve AI Investments | Medium
+        count: 0
+

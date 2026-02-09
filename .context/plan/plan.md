@@ -1,27 +1,31 @@
 ---
-key: ws-eng-cli/857
+key: educrm-tracker/26
 repositories:
   - trilogy-group/ws-eng-conduit-ai-assessment
 subtasks: false
 ---
 
-# ws-eng-cli/857 — Test Plan for Forked Repository
+# educrm-tracker/26 — [Test] - Created for testing purpose
 
 ## Decisions
+<!-- Record key choices and rationale. -->
+<!-- If you consider no key decision was made in this ticket, you can remove this section -->
+1. Decision 1
+  - Decision:
+  - Rationale:
+  - Alternatives considered:
 
-1. **Testing project picker functionality**
-   - Decision: Use this dummy plan to test the new project picker feature
-   - Rationale: This repository is not in Team Roster, so it will trigger the fallback flow
 
 ## Plan
+<!-- High-level approach: how we'll solve it, main steps, data flows, constraints. -->
 
-This is a test plan to verify that the `save-plan` command works correctly when:
-1. The repository is NOT in Team Roster
-2. The user needs to select a project via picker
-3. The selection is cached in `.wseng`
 
 ## Breakdown
+- Summary of work items:
+  - …
+  - …
 
-- Test the project picker
-- Verify caching works
-- Test `--project` flag bypass
+<!-- If `subtasks: true`, create H3 sections (one per subtask). -->
+<!-- Example when subtasks: true -->
+### Short SubTask Name
+Describe the work to be done in this subtask using plain paragraphs. Focus on what needs to be accomplished and any important details or context.
