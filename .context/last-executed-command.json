@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-02-09T17:43:51.203Z",
+  "commandName": "infer-breakdown",
+  "inputs": {
+    "ticketId": "ws-eng-cli/857",
+    "saveBreakdown": true,
+    "updateSp": false,
+    "force": false,
+    "exclude": []
+  },
+  "result": "## 📊 Estimation Summary\n\n- **Project Resolution System**: 10 SP\n- **Project Caching Mechanism**: 6 SP\n- **Manual Testing**: 2 SP\n- **Preparation**: 4 SP\n\n#### Total: 22 SP\n\n\n**Breakdown PR:** https://github.com/trilogy-group/ws-eng-docs/pull/1063\n\n✅ Breakdown saved\n\n---\n\n💡 **Refine this breakdown:** You can adjust the breakdown based on actual implementation details:\n\n```bash\nwseng ws refine-breakdown ws-eng-cli/857\n```"
+}
