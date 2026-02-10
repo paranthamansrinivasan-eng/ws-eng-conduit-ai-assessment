@@ -1,0 +1,24 @@
+{
+  "pasteImage.prefix": "./",
+  "pasteImage.namePrefix": "image-",
+  "yaml.schemas": {
+    "http://wseng-docs.s3-website-us-east-1.amazonaws.com/schemas/estimation.json": [
+      "*.estimation.yml",
+      "*.estimation.yaml",
+      "estimation.yml",
+      "estimation.yaml"
+    ],
+    "http://wseng-docs.s3-website-us-east-1.amazonaws.com/schemas/rca.json": [
+      "*.rca.yml",
+      "*.rca.yaml",
+      "rca.yml",
+      "rca.yaml"
+    ],
+    "http://wseng-docs.s3-website-us-east-1.amazonaws.com/schemas/epic-design.json": [
+      "*.epic-design.yml",
+      "*.epic-design.yaml",
+      "epic-design.yml",
+      "epic-design.yaml"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "project": "trilogy-group/educrm-tracker",
+  "key": "educrm-tracker/26",
+  "type": "Story",
+  "summary": "[Test] - Created for testing purpose",
+  "description": "This is created for testing purpose. Please ignore this",
+  "output": "",
+  "product": "EduCRM",
+  "code": [],
+  "estimationUrl": "",
+  "rcaUrl": "",
+  "epicDesignUrl": "",
+  "demoUrl": "",
+  "demoEnvironmentUrl": "",
+  "deliveredAt": null,
+  "labels": [],
+  "subtasks": [],
+  "status": "Backlog",
+  "reporter": {
+    "accountId": "239560083",
+    "emailAddress": "paranthamansrinivasan-eng",
+    "displayName": "paranthamansrinivasan-eng"
+  },
+  "priority": "Standard"
+}
